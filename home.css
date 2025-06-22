@@ -1,0 +1,53 @@
+.bg {
+    background-color: aliceblue;
+    padding: 35px;
+    margin: 100px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #d5cdcd;
+}
+
+.obg {
+    background-color:beige;
+    text-align: center;
+}
+
+.tbg {
+    background-color:beiged;
+
+}
+
+.logo {
+    height: 150px;
+    width: 200px;
+    margin: 20px;
+}
+
+.box {
+    border-radius: 3px;
+    padding: 10px;
+    margin: 20px;
+    border-width: 1px;
+    border-style: solid; 
+    border-color: #d5cdcd;
+    font-size: 18px;
+    width: 325px;
+}
+
+.result-item {
+    margin-bottom: 20px;
+}
+
+.result-title {
+    font-size: 22px;
+}
+
+.result-url {
+    color: #006621;
+    text-decoration: none;
+}
+
+.link-description {
+    font-size: 15px;
+    color: #444444;
+}
